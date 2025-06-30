@@ -81,7 +81,7 @@ dotnet test
 
  
 ** How to Run the Project
- git clone https://github.com/your-username/FreelancerManager.git
+ git clone https://github.com/ftninhnan/FreelancerManager.git
 cd FreelancerManager
  
 # Apply database migration
