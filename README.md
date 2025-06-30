@@ -1,4 +1,4 @@
-#  Freelancer Manager API – ETIQA Backend Assessment (June 2025)
+#  Freelancer Manager API â€“ ETIQA Backend Assessment (June 2025)
  
 This is a backend developer assessment project for ETIQA IT.  
 It allows managing freelancer data using a RESTful Web API built with ASP.NET Core, and a clean, neat HTML interface for interaction.
@@ -61,9 +61,9 @@ FreelancerManager/
  
 ##  Frontend UI (Optional but Done)
  
-- Located in: `WebAPI/wwwroot/index.html`
+- Located in: `WebAPI/wwwroot/FreelanceInfo.html`
 - Use a browser to open:  
-`http://localhost:5233/index.html`
+`http://localhost:5233/FreelanceInfo.html`
 - Includes form to add freelancers, table list, and delete button.
  
 ---
